@@ -16,5 +16,5 @@
 
 [역할] 
 - Flask deployment, service, ingress 작성
-- client와 웹 서버, 웹서버와 db 연동담당
-- Grafana 연동 ****
+- client와 웹 서버, 웹서버와 db 연동 담당
+- 모니터링을 위한 Grafana 연동 
