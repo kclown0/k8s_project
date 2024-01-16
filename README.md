@@ -14,7 +14,26 @@
 
 ![Untitled (2)](https://github.com/kclown0/k8s_project/assets/104144701/cba610be-85df-48d3-bdb8-ec0004db7e9e)
 
-[역할] 
+## 역할 
 - Flask deployment, service, ingress 작성
 - client와 웹 서버, 웹서버와 db 연동 담당
-- 모니터링을 위한 Grafana 연동 
+- 모니터링을 위한 Grafana 연동
+
+## Dataset
+
+### 기술 스택
+<div style="text-align: left;">
+   <img src="https://img.shields.io/badge/EC2-007396?style=for-the-badge&logo=S3&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-007396?style=for-the-badge&logo=S3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/minio-3776AB?style=for-the-badge&logo=EMR&logoColor=white">
+  <img src="https://img.shields.io/badge/kafka-007395?style=for-the-badge&logo=Athena&logoColor=white">
+  <br> <img src="https://img.shields.io/badge/spark-007396?style=for-the-badge&logo=S3&logoColor=white">
+   <img src="https://img.shields.io/badge/Airflow-007396?style=for-the-badge&logo=S3&logoColor=white">
+  <br> 
+  <img src="https://img.shields.io/badge/Prometheus-007396?style=for-the-badge&logo=S3&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-007396?style=for-the-badge&logo=S3&logoColor=white">
+  </div>
+
+## 프로젝트 상세 설명
+[[project-wiki-link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC)
+  
