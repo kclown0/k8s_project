@@ -15,9 +15,9 @@
 ![Untitled (2)](https://github.com/kclown0/k8s_project/assets/104144701/cba610be-85df-48d3-bdb8-ec0004db7e9e)
 
 ## 역할 
-- Flask deployment, service, ingress 작성
-- client와 웹 서버, 웹서버와 db 연동 담당
-- 모니터링을 위한 Grafana 연동
+- Flask deployment, service, ingress 작성 [[link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/flask-server)
+- client와 웹 서버, 웹서버와 db 연동 담당 
+- 모니터링을 위한 Grafana 연동 [[link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/prometheus-&-grafana-&-loki)
 
 ## Dataset
 
@@ -36,4 +36,7 @@
 
 ## 프로젝트 상세 설명
 [[project-wiki-link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC)
+
+## 프로젝트 회고
+- EC2에 직접 쿠버네티스 환경을 설치하여 진행해 쿠버네티스 전반에 대한 이해를 할 수 있었 던 프로젝트입니다. <br> 다음에는 AWS EKS 서비스를 활용한 프로젝트를 진행하고 싶습니다. 
   
