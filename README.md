@@ -7,19 +7,15 @@
 ## 프로젝트 기간
 2023.09.26 - 2023.11.03 (4주/5인)
 
-## 아키텍처
-![Untitled (1)](https://github.com/kclown0/k8s_project/assets/104144701/77f73384-02ee-4cac-a561-4ef1aa60891a)
-
-
-
-![Untitled (2)](https://github.com/kclown0/k8s_project/assets/104144701/cba610be-85df-48d3-bdb8-ec0004db7e9e)
-
 ## 역할 
 - Flask deployment, service, ingress 작성 [[link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/flask-server)
 - client와 웹 서버, 웹서버와 db 연동 담당 
 - 모니터링을 위한 Grafana 연동 [[link]](https://github.com/yeardream-de-project-team4/k8s_project/wiki/prometheus-&-grafana-&-loki)
 
-## Dataset
+## 아키텍처
+![Untitled (1)](https://github.com/kclown0/k8s_project/assets/104144701/77f73384-02ee-4cac-a561-4ef1aa60891a)
+
+![Untitled (2)](https://github.com/kclown0/k8s_project/assets/104144701/cba610be-85df-48d3-bdb8-ec0004db7e9e)
 
 ### 기술 스택
 <div style="text-align: left;">
